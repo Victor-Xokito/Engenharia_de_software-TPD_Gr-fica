@@ -1,5 +1,5 @@
 # Engenharia_de_software-TPD_Gr-fica
-Projeto para criação de um website e aplicação para TPD Gráfica. <br>
+Projeto para criação de um website para a empresa TPD Gráfica. <br>
 Integrantes do projeto: <br>
 Alisson de Abreu Alves <br>
 Bianca Batista Vieira	<br>
